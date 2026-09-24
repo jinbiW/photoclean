@@ -1,0 +1,2 @@
+"""PhotoClean desktop application."""
+
